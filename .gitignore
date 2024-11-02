@@ -1,0 +1,6 @@
+venv
+train
+test
+*.csv
+*.txt
+*.tar.gz*
