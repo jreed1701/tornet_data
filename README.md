@@ -10,7 +10,7 @@ Have python on your system.
 
 # Usage
 
-python -m venv venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-./download.sh
+1. python -m venv venv
+2. . ./venv/bin/activate
+3. pip install -r requirements.txt
+4. ./download.sh
