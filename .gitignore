@@ -1,6 +1,6 @@
 venv
 train
 test
+md5sums.txt
 *.csv
-*.txt
 *.tar.gz*
